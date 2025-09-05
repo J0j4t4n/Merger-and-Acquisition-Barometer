@@ -1,6 +1,7 @@
 # M&A Barometer – Track Real-Time Dealflow Across Markets
 
-![License](https://img.shields.io/badge/license-All--Rights--Reserved-red)
+![License](https://img.shields.io/badge/license-All--Rights--Reserved-red)![Imergea](https://img.shields.io/badge/Website-Imergea.com-blue)
+
 
 > 📊 Stay informed on the global M&A landscape with real-time tracking of relevant deals. Built by IMERGEA, the M&A advisory consulting firm for emerging markets and founder-led companies.
 
